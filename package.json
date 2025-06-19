@@ -2,7 +2,7 @@
   "name": "bot-discord-aoe4",
   "version": "1.2",
   "dependencies": {
-    "discord.js": "^14.15.2"
+    "discord.js": "^14.20.0"
   },
   "type": "commonjs",
   "scripts": {
